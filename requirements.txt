@@ -1,0 +1,6 @@
+pandas 
+numpy
+sklearn==1.2.2
+matplotlib
+seaborn
+imalanced_learn
